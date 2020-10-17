@@ -1,0 +1,21 @@
+body{
+    background-image: url("bacground.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: whitesmoke;
+}
+
+.Header{
+    display: flex;
+    justify-content: space-between;
+    background-color: violet;
+}
+a{
+    color: white;
+}
+
+.imagesBlock{
+    display: inherit;
+    justify-content: space-around;
+    
+}
